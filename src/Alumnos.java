@@ -8,7 +8,7 @@ public class Alumnos {
         this.nombre = nombre;
         this.promedio = promedio;
     }
-
+    //string
     @Override
     public String toString() {
         return id + " - " + nombre + " - Promedio: " + promedio;

@@ -9,6 +9,6 @@ public interface Lista<E> extends Iterable<E>{
   public E eliminarInicio();//listo
   public E eliminarPosicion(int pos);//listo
   public void vaciarLista();//listo
-  public E consultarElementos(int pos);
+  public E consultarElementos(int pos);//listo
   public boolean esVacia();//listo
 }

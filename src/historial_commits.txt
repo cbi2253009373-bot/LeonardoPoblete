@@ -1,0 +1,47 @@
+commit 102641ac61e84ae7ede654e1a52583f2d9963001
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 21:44:40 2026 -0600
+
+    Agregamos app.java
+
+commit a31f33163530bb7246ea2326385afff616ea0acf
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 21:44:03 2026 -0600
+
+    Agregue Arraylist.java bien
+
+commit c6ad065ed9fbcfcb79d07947f7c18e01805aeb66
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 20:55:49 2026 -0600
+
+    Agregue Arraylist.java bien
+
+commit b5ce042a150506fe0a0d648cce40371a3cace4db
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 20:55:14 2026 -0600
+
+    Agregue Lista.java bien
+
+commit cda289ee49b7e308e4f886c5c24650a8118c1986
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 20:54:39 2026 -0600
+
+    Agregue alumnos.java bien
+
+commit 19898b9b39f3646ae845a565868172ccd2d1957a
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 20:51:40 2026 -0600
+
+    Agregue Alumnos.java
+
+commit 20bfc9d7bd5c5c2663bc932e25a7694d3b508a77
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Sat Jul 4 20:49:43 2026 -0600
+
+    Agregando Lista
+
+commit e7033373fd6b6cc2afe7dff9703db70f88846010
+Author: Leonardo Poblete <cbi2253009373@izt.uam.mx>
+Date:   Wed Jul 1 20:21:11 2026 -0600
+
+    Primer commit

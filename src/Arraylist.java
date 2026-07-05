@@ -161,6 +161,7 @@ public class Arraylist <E> implements Lista<E> {
             }
         };
     }
+    //puse el to string 
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();

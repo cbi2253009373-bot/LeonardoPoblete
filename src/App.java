@@ -25,7 +25,7 @@ public class App {
         System.out.println("Alumno Eliminado");
         System.out.println(a);
 
-
+        //implemente el tostring
         // Mostrando la lista despues de la eliminacion
         System.out.println("Número de alumnos: " + listaAlumnos.numElementos());
         System.out.println(listaAlumnos);

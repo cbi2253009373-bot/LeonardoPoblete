@@ -71,7 +71,7 @@ public class Arraylist <E> implements Lista<E> {
         }
 
 
-       if (pos>0 && pos < this.indice) {
+       if (pos>=0 && pos < this.indice) {
         if (this.indice == datos.length) {
          aux = new Object[datos.length + datos.length / 2];
          System.arraycopy(this.datos, 0, aux, 0, pos);
